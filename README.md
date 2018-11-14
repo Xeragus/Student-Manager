@@ -1,2 +1,2 @@
 # Student-Manager
-Student manager using React.js
+React.js student manager
